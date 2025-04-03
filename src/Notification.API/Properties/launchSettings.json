@@ -1,0 +1,23 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:7110;http://localhost:5139",
+      "environmentVariables": {
+        "CORECLR_ENABLE_PROFILING": "1",
+        "CORECLR_PROFILER": "{36032161-FFC0-4B61-B559-F6C5D41BAE5A}",
+        "CORECLR_PROFILER_PATH": "..\\/Users/gokhanertogan/repos/NotificationProject/src/Notification.API/bin/Debug/net9.0/newrelic/NewRelic.Profiler.dll",
+        "CORECLR_NEWRELIC_HOME": "/Users/gokhanertogan/repos/NotificationProject/src/Notification.API/bin/Debug/net9.0/newrelic",
+        "NEW_RELIC_LICENSE_KEY": "eu01xxa64f216a124b77a7b24fd880c9FFFFNRAL",
+        "NEWRELIC_INSTALL_PATH": "/Users/gokhanertogan/repos/NotificationProject/src/Notification.API/bin/Debug/net9.0/newrelic",
+        "NEW_RELIC_REGION": "eu",
+        "NEW_RELIC_APP_NAME": "Notification.API",
+        "NEWRELIC_LOG_LEVEL": "debug",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
